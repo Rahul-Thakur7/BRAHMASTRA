@@ -15,9 +15,4 @@ python BRAHMASTRA.py username
 
 ## 📸 Sample Output
 
-[+] Twitter: https://twitter.com/username  
-[+] GitHub: https://github.com/username  
-[!] Instagram: Not found  
-[✓] Scan completed in 25s (23 platforms checked)
-
 <img width="641" alt="image" src="https://github.com/user-attachments/assets/9bb3121a-4cca-4dcf-a6e4-984a0ea03bdd" />
